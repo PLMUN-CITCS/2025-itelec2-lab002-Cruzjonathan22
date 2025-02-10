@@ -4,6 +4,8 @@
 # Simple Calculator Program
 
 def main():
+    
+    pass
     print("Simple Calculator Program")
     
     num1 = int(input("Enter 1st number: "))
